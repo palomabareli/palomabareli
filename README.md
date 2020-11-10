@@ -26,7 +26,7 @@ Fun fact: ⚡
     
     [x] Lettering :pen: ;
     
-    [x] Drawing :pen: ;
+    [x] Drawing :love_letter: ;
     
     [x] Scrapbook :ledger: .
     
