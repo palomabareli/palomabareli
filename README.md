@@ -18,7 +18,7 @@ How to reach me: 📫
 
   * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=palomaribeiro1&logo=linkedin&logoColor=blue&style=plastic&url=https://www.linkedin.com/in/palomaribeiro1/">
  
-  * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=paloma.bareli&logo=instagram&logoColor=blue&style=plastic&url=https://www.instagram.com/paloma.bareli/">
+  * <img alt="Instagram" src="https://img.shields.io/endpoint?color=blue&label=paloma.bareli&logo=instagram&logoColor=blue&style=plastic&url=https://www.instagram.com/paloma.bareli/" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg">
     
   * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=paloma-bareli&logo=medium&logoColor=blue&style=plastic&url=https://paloma-bareli.medium.com/">  
   
