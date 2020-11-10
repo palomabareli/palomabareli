@@ -24,13 +24,14 @@ How to reach me: 📫
 </a> 
 
 <a href="https://paloma-bareli.medium.com/">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/medium.svg" alt="medium" style="vertical-align:top margin:6px 4px"">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/blogs/medium.svg" alt="medium" style="vertical-align:top margin:6px 4px"">
 </a> 
 
+<!--
 <a href="https://github.com/palomabareli">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/github.svg" alt="github" style="vertical-align:top margin:6px 4px"">
 </a> 
-
+-->
   
 Fun fact: ⚡
   * I love: :+1:
