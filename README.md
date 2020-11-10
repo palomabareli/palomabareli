@@ -24,6 +24,11 @@ How to reach me: 📫
   
   * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=palomabareli&logo=github&logoColor=blue&style=plastic&url=https://github.com/palomabareli">
   
+  
+<a href="#">
+    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+</a>  
+  
 Fun fact: ⚡
   * I love: :+1:
   
