@@ -21,6 +21,7 @@ How to reach me: 📫
   
 Fun fact: ⚡
   * I love: 
+  
     [x] Muay Thai :fight: ; 
     
     [x] Lettering :write: ;
