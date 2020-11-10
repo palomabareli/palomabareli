@@ -13,7 +13,16 @@ I’m looking to collaborate on *the feminist community*, *equality rights*, etc
 I’m looking for help with Python, Database, BI, etc. 🤔
 
 How to reach me: 📫 
-  * [Twitter] (https://twitter.com/Paloma_Bareli)
+  * [Twitter] (https://twitter.com/Paloma_Bareli) 
+  
+  https://img.shields.io/static/v1?label={
+  "schemaVersion": 1,
+  "label": "Twitter",
+  "message": "Twitter",
+  "color": "orange"
+}&message=Twitter&color=blue
+ 
+ 
   * [LinkedId] (https://www.linkedin.com/in/palomaribeiro1)
   * [Twitter] (https://www.instagram.com/paloma.bareli) 
   * [Medium] (https://paloma-bareli.medium.com)
