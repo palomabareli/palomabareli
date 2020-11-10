@@ -15,7 +15,7 @@ I’m looking for help with Python, Database, BI, etc. 🤔
 How to reach me: 📫 
   * [Twitter] (https://twitter.com/Paloma_Bareli) 
   
-  https://img.shields.io/static/v1?label=Teste&message=Twitter&color=blue
+<img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=%40Paloma_Bareli&logo=Twitter&logoColor=blue&style=plastic&url=https%3A%2F%2Ftwitter.com%2FPaloma_Bareli">
  
  
   * [LinkedId] (https://www.linkedin.com/in/palomaribeiro1)
