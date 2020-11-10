@@ -14,24 +14,22 @@ I’m looking for help with Python, Database, BI, etc. 🤔
 
 How to reach me: 📫 
 
-<!--
-  *  <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=%40Paloma_Bareli&logo=Twitter&logoColor=blue&style=plastic&url=https://twitter.com/Paloma_Bareli">
-<!--
-  * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=palomaribeiro1&logo=linkedin&logoColor=blue&style=plastic&url=https://www.linkedin.com/in/palomaribeiro1/">
--->  
-<!--
-  * <img alt="Instagram" src="https://img.shields.io/endpoint?color=blue&label=paloma.bareli&logo=instagram&logoColor=blue&style=plastic&url=https://www.instagram.com/paloma.bareli/" img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg">
- -->   
- <!--
-  * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=paloma-bareli&logo=medium&logoColor=blue&style=plastic&url=https://paloma-bareli.medium.com/">  
--->   
-<!--
-  * <img alt="Custom badge" src="https://img.shields.io/endpoint?color=blue&label=palomabareli&logo=github&logoColor=blue&style=plastic&url=https://github.com/palomabareli">
--->   
   
-<a href="https://www.linkedin.com/in/palomaribeiro1">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px"">
+<a href="https://twitter.com/Paloma_Bareli">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top margin:6px 4px"">
 </a>  
+
+<a href="https://www.linkedin.com/in/palomaribeiro1">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top margin:6px 4px"">
+</a> 
+
+<a href="https://paloma-bareli.medium.com/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/medium.svg" alt="medium" style="vertical-align:top margin:6px 4px"">
+</a> 
+
+<a href="https://github.com/palomabareli">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/github.svg" alt="github" style="vertical-align:top margin:6px 4px"">
+</a> 
 
   
 Fun fact: ⚡
