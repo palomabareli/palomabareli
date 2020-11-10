@@ -22,7 +22,7 @@ How to reach me: 📫
 Fun fact: ⚡
   * I love: 
   
-    [x] Muay Thai :fight: ; 
+    [x] Muay Thai :glove: ; 
     
     [x] Lettering :write: ;
     
