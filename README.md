@@ -28,7 +28,7 @@ How to reach me: 📫
   
   
 <a href="#">
-    <img="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px" url=https://www.linkedin.com/in/palomaribeiro1">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/instagram.svg" alt="Instagram" style="vertical-align:top margin:6px 4px" href="https://www.linkedin.com/in/palomaribeiro1">
 </a>  
 
   
