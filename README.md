@@ -4,9 +4,9 @@ My name is **Paloma**.
 
 I'm from Brazil, São Paulo.
 
-My actual job at *PagSeguro* and I'm a working *Data Engineer*. 🔭 
+My actual job at *Thoughtworks* and I'm a working *Data Engineer*. 🔭 
 
-I currently learning: Data Science (Machine Learning, IoT, etc.). 🌱
+I currently learning: Data Engineering and Software Engineering. 🌱
 
 I’m looking to collaborate on *the feminist community*, *equality rights*, etc. 👯 
 
