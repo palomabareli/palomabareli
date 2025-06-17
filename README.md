@@ -4,13 +4,13 @@ My name is **Paloma**.
 
 I'm from Brazil, São Paulo.
 
-My actual job at *Thoughtworks* and I'm a working *Data Engineer*. 🔭 
+My actual job at *TCS (Tata Consultancy Services* and I'm a working *Data Engineer / Data Base Specialist*. 🔭 
 
-I currently learning: Data Engineering and Software Engineering. 🌱
+I currently learning: Data Engineering, Software Engineering (focus in Data), AI (LLM, Agents, etc.), Data Streaming (Real and Near Real Time) and IA (for Data Engineering). 🌱
 
 I’m looking to collaborate on *the feminist community*, *equality rights*, etc. 👯 
 
-I’m looking for help with Python, Database, BI, etc. 🤔
+I’m looking for help with Python, Database, BI, SQL, etc. 🤔
 
 How to reach me: 📫 
 
